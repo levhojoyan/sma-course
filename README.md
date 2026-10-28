@@ -72,3 +72,4 @@ All deadlines are 23:59 Moscow time unless announced otherwise, and late submiss
 | # | Material |
 |---|---|
 | 1-2 | [Tutorial 1-2 (student version)](tutorials/Tutorial_1-2_Student.docx) |
+| 3 | [Search and Recommendation in the Age of AI Answers (student version)](tutorials/Tutorial_3_Student.docx) |
