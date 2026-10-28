@@ -52,6 +52,7 @@ All deadlines are 23:59 Moscow time unless announced otherwise, and late submiss
 | Thu 8 Oct | Extra session for Tutorial Part A Q3–Q5 (kNN for text, choosing negatives, trees vs black boxes): cancelled because the tutor was ill | |
 | Week of 12 Oct | Rescheduled extra session; attendance and likes posted 13 Oct | |
 | Wed 21 Oct | Lecture 3, Part 1: Information Retrieval & Recommender Systems | [Slides](lectures/Lecture_03_Part1_Information_Retrieval_Recommender_Systems.pdf), [Video](https://youtu.be/WRD_oIQMveU) |
+| Wed 28 Oct | Lecture 3, Part 2: Networks & Graphs | [Slides](lectures/Lecture_03_Part2_Networks_Graphs.pdf) |
 
 ## Materials
 
@@ -66,6 +67,7 @@ All deadlines are 23:59 Moscow time unless announced otherwise, and late submiss
 | 01 | [Intro to Social Media Analytics](lectures/Lecture_01_Intro_Social_Media_Analytics.pdf) |
 | 02 | [Social Media User Profiling](lectures/Lecture_02_Social_Media_User_Profiling.pdf) |
 | 03 | [Information Retrieval & Recommender Systems (Part 1)](lectures/Lecture_03_Part1_Information_Retrieval_Recommender_Systems.pdf), [video](https://youtu.be/WRD_oIQMveU) |
+| 03 | [Networks & Graphs (Part 2)](lectures/Lecture_03_Part2_Networks_Graphs.pdf) |
 
 ### Tutorials
 
